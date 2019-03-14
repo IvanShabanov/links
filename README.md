@@ -45,3 +45,6 @@ https://github.com/antonmedv/console
 https://github.com/RobinHerbots/Inputmask
 
 https://github.com/igorescobar/jQuery-Mask-Plugin/blob/master/src/jquery.mask.js
+
+Генератор json-ld
+https://hallanalysis.com/json-ld-generator/
