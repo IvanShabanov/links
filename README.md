@@ -1,6 +1,10 @@
 # links
 Полезные ссылки
 
+Вместо google fonts лучше использовать так
+
+https://google-webfonts-helper.herokuapp.com/fonts
+
 
 Когда надо перевести что написано 
 
